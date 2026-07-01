@@ -26,9 +26,22 @@
 
 ### 🧭 About Me
 
-I'm a Computer Science student in Coimbatore building toward a career in DevOps and cloud
-infrastructure — writing Python automation against real AWS resources, wiring up Jenkins
-pipelines, and shipping Docker images rather than just reading about them.
+<img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+```python
+class Jagadeep:
+    def __init__(self):
+        self.name = "Jagadeep KG"
+        self.role = "Junior DevOps & Cloud Engineer"
+        self.based_in = "Coimbatore, Tamil Nadu"
+        self.stack = ["Python", "AWS", "Docker", "Jenkins", "Git"]
+        self.learning = ["Kubernetes", "Terraform", "Ansible"]
+
+    def motto(self):
+        return "Automate the boring stuff. Ship it. Monitor it."
+```
+
+<br clear="right"/>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,html,css,aws,docker,jenkins,git,github,linux&theme=dark" />
