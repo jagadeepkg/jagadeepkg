@@ -42,25 +42,8 @@ into Kubernetes and Terraform.
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00D9FF&height=3&width=900" />
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- STATS -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jagadeepkg&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=00D9FF&icon_color=00D9FF&text_color=e6e6e6&border_radius=10" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagadeepkg&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00D9FF&text_color=e6e6e6&langs_count=8&border_radius=10" />
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=jagadeepkg&theme=black-ice&hide_border=true&background=000000&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&border_radius=10)](https://github.com/jagadeepkg)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jagadeepkg&theme=github-compact&bg_color=000000&color=00D9FF&line=00D9FF&point=e6e6e6&hide_border=true&area=true)
-
-</div>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00D9FF&height=3&width=900" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
