@@ -2,7 +2,7 @@
 <!-- HERO -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00D9FF&height=210&section=header&text=Jagadeep%20KG&fontSize=44&fontColor=fff&animation=fadeIn&fontAlignY=34&desc=Junior%20DevOps%20%26%20Cloud%20Engineer&descAlignY=58&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00D9FF&height=210&section=header&text=Jagadeep%20KG&fontSize=44&fontColor=fff&animation=fadeIn&fontAlignY=34&desc=Junior%20DevOps%20%2B%20Cloud%20Engineer&descAlignY=58&descSize=18)
 
 <div align="center">
 
