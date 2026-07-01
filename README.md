@@ -10,8 +10,20 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Jagadeep+KG+%F0%9F%91%8B;Junior+DevOps+%26+Cloud+Engineer;Building+with+AWS%2C+Docker+%26+Jenkins;Also+running+a+last-mile+logistics+business+%F0%9F%9A%9A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Jagadeep+KG+%F0%9F%91%8B;Junior+DevOps+%26+Cloud+Engineer;Building+with+AWS%2C+Docker+%26+Jenkins;I+also+run+a+last-mile+logistics+business+%F0%9F%9A%9A;Currently+shipping+CI%2FCD+pipelines+that+don't+break+%F0%9F%94%A5)](https://git.io/typing-svg)
 
+<br>
+
+[![Gmail](https://img.shields.io/badge/-jagadeepkg18%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jagadeepkg18@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jagadeepkg)
+[![Location](https://img.shields.io/badge/-Coimbatore%2C%20Tamil%20Nadu-4285F4?style=flat-square&logo=googlemaps&logoColor=white)](#)
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=2&width=900" />
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -87,6 +99,25 @@ print(me.motto())
 
 </div>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=2&width=900" />
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- PINNED / FEATURED REPO CARDS -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<a href="https://github.com/jagadeepkg/aws-health-report">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=jagadeepkg&repo=aws-health-report&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&icon_color=bf91f3" />
+</a>
+<a href="https://github.com/jagadeepkg">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=jagadeepkg&repo=aws-health-reporter&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&icon_color=bf91f3" />
+</a>
+
+</div>
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 5 & 6. GITHUB STATS + TOP LANGUAGES -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -123,6 +154,24 @@ print(me.motto())
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- CONTRIBUTION SNAKE ANIMATION -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/jagadeepkg/jagadeepkg/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+
+<sub>Powered by a GitHub Action that eats my daily commit graph — see setup note at the bottom of this README.</sub>
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=2&width=900" />
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 9. TROPHY WALL -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
@@ -135,6 +184,31 @@ print(me.motto())
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 10. WORK EXPERIENCE -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
+
+## ⚡ How I Work
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  9 AM   → Coffee + checking Jenkins pipeline status          │
+│  Day    → CS classes / DevOps labs / hands-on AWS builds     │
+│  Break  → Coordinating delivery agents for Dian Core         │
+│  Night  → Shipping side projects, breaking Docker, fixing it │
+└─────────────────────────────────────────────────────────────┘
+```
+
+> I like systems that run without me babysitting them — whether that's
+> a Jenkins cron job emailing an AWS health report at 6 AM, or a
+> delivery route that doesn't need a phone call to work.
+
+<div align="center">
+
+[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/jagadeepkg)
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=2&width=900" />
+</div>
 
 ## 💼 Work Experience
 
@@ -228,3 +302,42 @@ print(me.motto())
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
+
+<!-- ═══════════════════════════════════════════════════════════════
+  SETUP NOTE — Contribution Snake (delete this comment once done)
+
+  The snake image above needs a one-time GitHub Action to generate it:
+
+  1. In this repo (jagadeepkg/jagadeepkg), create:
+     .github/workflows/snake.yml
+  2. Paste in the workflow below, commit, then run it once manually
+     from the Actions tab (or wait for the daily schedule).
+
+  ---
+  name: Generate Snake
+  on:
+    schedule:
+      - cron: "0 0 * * *"
+    workflow_dispatch: {}
+    push:
+      branches: [ main ]
+  jobs:
+    generate:
+      runs-on: ubuntu-latest
+      permissions:
+        contents: write
+      steps:
+        - uses: Platane/snk@v3
+          with:
+            github_user_name: jagadeepkg
+            outputs: |
+              dist/github-contribution-grid-snake.svg
+              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        - uses: crazy-max/ghaction-github-pages@v4
+          with:
+            target_branch: output
+            build_dir: dist
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  ───────────────────────────────────────────────────────────────── -->
+
