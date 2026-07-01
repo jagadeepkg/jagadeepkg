@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=760&lines=%24+whoami;%3E+devops_engineer.py+--status+learning;%3E+automating(aws)+%3D%3E+True;%3E+deploy(confidence%3DHigh))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=760&lines=Automating+AWS+infrastructure+with+Python+%26+boto3;Building+CI%2FCD+pipelines+with+Jenkins+%2B+Docker;Open+to+Junior+DevOps+%26+Cloud+Support+roles)](https://git.io/typing-svg)
 
 <br>
 
@@ -29,16 +29,28 @@
 <img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
-class Jagadeep:
-    def __init__(self):
-        self.name = "Jagadeep KG"
-        self.role = "Junior DevOps & Cloud Engineer"
-        self.based_in = "Coimbatore, Tamil Nadu"
-        self.stack = ["Python", "AWS", "Docker", "Jenkins", "Git"]
-        self.learning = ["Kubernetes", "Terraform", "Ansible"]
+from dataclasses import dataclass, field
+from typing import List
 
-    def motto(self):
-        return "Automate the boring stuff. Ship it. Monitor it."
+
+@dataclass
+class Engineer:
+    name: str = "Jagadeep KG"
+    role: str = "Junior DevOps & Cloud Engineer"
+    location: str = "Coimbatore, Tamil Nadu, India"
+    core_stack: List[str] = field(default_factory=lambda: [
+        "Python", "AWS", "Docker", "Jenkins", "Git"
+    ])
+    currently_learning: List[str] = field(default_factory=lambda: [
+        "Kubernetes", "Terraform", "Ansible"
+    ])
+
+    def focus(self) -> str:
+        return "Building reliable, automated cloud infrastructure."
+
+
+jagadeep = Engineer()
+print(jagadeep.focus())
 ```
 
 <br clear="right"/>
@@ -141,24 +153,9 @@ flowchart LR
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top" align="center">
+**💭 Daily Engineering Quote**
 
-**💭 Rotating Dev Quote**
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%"/>
-
-</td>
-<td width="50%" valign="top" align="center">
-
-**😄 Refreshes Every Visit**
-
-<img src="https://readme-jokes.vercel.app/api" width="100%"/>
-
-</td>
-</tr>
-</table>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="600"/>
 
 </div>
 
