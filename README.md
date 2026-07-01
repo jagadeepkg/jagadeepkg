@@ -2,22 +2,22 @@
 <!-- HERO -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Jagadeep%20KG&fontSize=46&fontColor=fff&animation=fadeIn&fontAlignY=34&desc=Junior%20DevOps%20%26%20Cloud%20Engineer&descAlignY=58&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a0a,100:000000&height=200&section=header&text=Jagadeep%20KG&fontSize=46&fontColor=00F5FF&animation=twinkling&fontAlignY=34&desc=Junior%20DevOps%20%26%20Cloud%20Engineer&descAlignY=58&descSize=18&descColor=FF2E9F)
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1200&color=70A5FD&center=true&vCenter=true&width=760&lines=Automating+AWS+infrastructure+with+Python+%26+boto3;Building+CI%2FCD+pipelines+with+Jenkins+%2B+Docker;Cloud+today%2C+Kubernetes+and+Terraform+tomorrow)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=760&lines=%24+whoami;%3E+devops_engineer.py+--status+learning;%3E+automating(aws)+%3D%3E+True;%3E+deploy(confidence%3DHigh))](https://git.io/typing-svg)
 
 <br>
 
-[![Gmail](https://img.shields.io/badge/-jagadeepkg18%40gmail.com-1a1a2e?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:jagadeepkg18@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/jagadeepkg)
-[![GitHub](https://img.shields.io/badge/-jagadeepkg-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jagadeepkg)
+[![Gmail](https://img.shields.io/badge/-jagadeepkg18%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=FF2E9F)](mailto:jagadeepkg18@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00F5FF)](https://linkedin.com/in/jagadeepkg)
+[![GitHub](https://img.shields.io/badge/-jagadeepkg-000000?style=for-the-badge&logo=github&logoColor=00F5FF)](https://github.com/jagadeepkg)
 
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:0f2027&height=3&width=900" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:000000,100:FF2E9F&height=3&width=900" />
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -48,7 +48,7 @@ class Jagadeep:
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:0f2027&height=3&width=900" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:000000,100:FF2E9F&height=3&width=900" />
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -59,10 +59,10 @@ class Jagadeep:
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Manual%20Entry%20Time-90%25%20Reduced-2c5364?style=for-the-badge&labelColor=0f2027" />
-<img src="https://img.shields.io/badge/AWS%20Monitoring-Fully%20Automated-2c5364?style=for-the-badge&labelColor=0f2027" />
-<img src="https://img.shields.io/badge/CI%2FCD-Docker%20%2B%20Jenkins-2c5364?style=for-the-badge&labelColor=0f2027" />
-<img src="https://img.shields.io/badge/CGPA-7.3-2c5364?style=for-the-badge&labelColor=0f2027" />
+<img src="https://img.shields.io/badge/Manual%20Entry%20Time-90%25%20Reduced-000000?style=for-the-badge&labelColor=000000&color=00F5FF" />
+<img src="https://img.shields.io/badge/AWS%20Monitoring-Fully%20Automated-000000?style=for-the-badge&labelColor=000000&color=FF2E9F" />
+<img src="https://img.shields.io/badge/CI%2FCD-Docker%20%2B%20Jenkins-000000?style=for-the-badge&labelColor=000000&color=00F5FF" />
+<img src="https://img.shields.io/badge/CGPA-7.3-000000?style=for-the-badge&labelColor=000000&color=FF2E9F" />
 
 </div>
 
@@ -73,6 +73,7 @@ class Jagadeep:
 ### 🏗️ System I Built: AWS Infrastructure Health Reporter
 
 ```mermaid
+%%{init: {'theme':'dark', 'themeVariables': { 'background': '#000000', 'primaryColor': '#0a0a0a', 'primaryTextColor': '#00F5FF', 'primaryBorderColor': '#00F5FF', 'lineColor': '#FF2E9F'}}}%%
 flowchart LR
     A["⏰ Jenkins Cron Job"] --> B["🐍 Python Script (boto3)"]
     B --> C["EC2 Instance Metrics"]
@@ -83,25 +84,19 @@ flowchart LR
     E --> F
     F --> G["📧 Gmail SMTP"]
     G --> H["📥 Daily Report Delivered"]
-
-    style A fill:#2c5364,stroke:#70A5FD,color:#fff
-    style F fill:#203a43,stroke:#BF91F3,color:#fff
-    style H fill:#0f2027,stroke:#38BDAE,color:#fff
 ```
 
 ```mermaid
+%%{init: {'theme':'dark', 'themeVariables': { 'background': '#000000', 'primaryColor': '#0a0a0a', 'primaryTextColor': '#FF2E9F', 'primaryBorderColor': '#FF2E9F', 'lineColor': '#00F5FF'}}}%%
 flowchart LR
     A["👨‍💻 Git Push"] --> B["🔧 Jenkins Pipeline Triggered"]
     B --> C["🐳 Docker Image Build"]
     C --> D["▶️ Container Run + Test"]
     D --> E["📦 Push to Docker Hub"]
-
-    style B fill:#2c5364,stroke:#70A5FD,color:#fff
-    style E fill:#0f2027,stroke:#38BDAE,color:#fff
 ```
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:0f2027&height=3&width=900" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:000000,100:FF2E9F&height=3&width=900" />
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -112,19 +107,19 @@ flowchart LR
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jagadeepkg&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagadeepkg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=jagadeepkg&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=00F5FF&icon_color=FF2E9F&text_color=e6e6e6&border_radius=10" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagadeepkg&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00F5FF&text_color=e6e6e6&langs_count=8&border_radius=10" />
 
 <a href="https://github.com/jagadeepkg/aws-health-report">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=jagadeepkg&repo=aws-health-report&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&icon_color=bf91f3" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=jagadeepkg&repo=aws-health-report&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00F5FF&text_color=e6e6e6&icon_color=FF2E9F" />
 </a>
 <a href="https://github.com/jagadeepkg">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=jagadeepkg&repo=aws-health-reporter&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&icon_color=bf91f3" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=jagadeepkg&repo=aws-health-reporter&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00F5FF&text_color=e6e6e6&icon_color=FF2E9F" />
 </a>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jagadeepkg&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://github.com/jagadeepkg)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jagadeepkg&theme=black-ice&hide_border=true&background=000000&ring=00F5FF&fire=FF2E9F&currStreakLabel=00F5FF&sideLabels=FF2E9F&dates=8B949E&currStreakNum=e6e6e6&sideNums=e6e6e6&stroke=000000&border_radius=10)](https://github.com/jagadeepkg)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jagadeepkg&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jagadeepkg&theme=github-compact&bg_color=000000&color=00F5FF&line=FF2E9F&point=e6e6e6&area=true&hide_border=true)
 
 </div>
 
@@ -137,31 +132,38 @@ flowchart LR
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:0f2027&height=3&width=900" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:000000,100:FF2E9F&height=3&width=900" />
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ROADMAP TIMELINE — unique differentiator -->
+<!-- SMALL UNIQUE TOUCHES -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-### 🗺️ Roadmap
+<div align="center">
 
-```mermaid
-timeline
-    title From CS Student to DevOps Engineer
-    2023 : Started B.Sc CS (Cognitive Systems)
-    2024 : Gen AI Internship at Amypo Technologies
-         : Cloud Practitioner Essentials certified
-    2025 : UI/UX Internship at Postulate InfoTech
-         : Built AWS Infrastructure Health Reporter
-         : Built Invoice Processing Automation Bot
-         : Dockerized CI/CD pipeline shipped to Docker Hub
-    2026 : Learning Kubernetes, Terraform, Ansible
-         : Targeting Junior DevOps / Cloud Support roles
-```
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+
+**💭 Rotating Dev Quote**
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%"/>
+
+</td>
+<td width="50%" valign="top" align="center">
+
+**😄 Refreshes Every Visit**
+
+<img src="https://readme-jokes.vercel.app/api" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:0f2027&height=3&width=900" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:000000,100:FF2E9F&height=3&width=900" />
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -170,7 +172,7 @@ timeline
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=jagadeepkg&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=jagadeepkg&theme=matrix&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)
 
 </div>
 
@@ -248,23 +250,31 @@ timeline
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:0f2027&height=3&width=900" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:000000,100:FF2E9F&height=3&width=900" />
 </p>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=jagadeepkg&color=2c5364&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=jagadeepkg&color=000000&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=140&section=footer&animation=fadeIn)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a0a,100:000000&height=140&section=footer&animation=twinkling)
 
 <!-- ═══════════════════════════════════════════════════════════════
   SETUP NOTES (delete this comment block once done)
 
-  1) MERMAID DIAGRAMS — render natively on github.com, no setup needed.
+  1) MERMAID DIAGRAMS — render natively on github.com. The dark-theme
+     init directive at the top of each block keeps them black-background
+     even in GitHub's light mode.
 
-  2) CONTRIBUTION SNAKE — needs a one-time GitHub Action in this repo
+  2) GITHUB-READMDE-STATS THEMES — "chartreuse-dark" and streak theme
+     "black-ice" were picked because they're true black-background
+     themes that let the bg_color/title_color/icon_color overrides
+     show through cleanly. If a card ever looks off, swap theme= for
+     "dark" as a safe fallback — the color params will still apply.
+
+  3) CONTRIBUTION SNAKE — needs a one-time GitHub Action in this repo
      (jagadeepkg/jagadeepkg). Create .github/workflows/snake.yml:
 
      ---
@@ -295,4 +305,12 @@ timeline
                GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
      Commit it, then run once manually from the Actions tab.
+
+  NOTE ON "BLACK THEME": GitHub controls the actual page background
+  (light/dark mode is a site-wide user setting, not something a README
+  can override). Every widget above is forced to a true black card via
+  bg_color/background params so the profile reads as black-themed
+  regardless of the viewer's GitHub mode — but plain markdown text and
+  tables will still follow the visitor's own light/dark setting, since
+  that part of the page isn't an image.
   ───────────────────────────────────────────────────────────────── -->
